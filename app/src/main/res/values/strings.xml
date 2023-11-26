@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiceRoller</string>
+    <string name="roll">Lanzar</string>
+    <string name="sevenleven">El que pierde paga</string>
+</resources>
